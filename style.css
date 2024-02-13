@@ -1,7 +1,7 @@
 body {
     background-color: antiquewhite;  
     font-family: "Lovers Quarrel", cursive;
-    display: inline block
+    display: flexbox; 
 }
 
 .imgcenter {
