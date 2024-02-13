@@ -1,10 +1,8 @@
 body {
     background-color: antiquewhite;  
     font-family: "Lovers Quarrel", cursive;
-    display: flexbox; 
 }
 
 .imgcenter {
  border-radius: 15px;
-
 }
