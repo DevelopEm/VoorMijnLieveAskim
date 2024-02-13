@@ -2,5 +2,9 @@ body {
     background-color: pink;  
     font-family: "Lovers Quarrel", cursive;
     justify-content: center;
-    justify-items: auto;
+}
+
+.topcontainer {
+    justify-content: center;
+    text-align: center;
 }
