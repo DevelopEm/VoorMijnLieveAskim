@@ -1,0 +1,10 @@
+body {
+    background-color: antiquewhite;  
+    font-family: "Lovers Quarrel", cursive;
+    display: inline block
+}
+
+.imgcenter {
+ border-radius: 15px;
+
+}
